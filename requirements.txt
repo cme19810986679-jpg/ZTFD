@@ -1,0 +1,25 @@
+--index-url https://download.pytorch.org/whl/cu118
+--extra-index-url https://pypi.org/simple
+
+torch==2.7.1
+torchvision==0.22.1
+
+pillow
+numpy
+tqdm
+pyyaml
+omegaconf
+
+torchmetrics
+pycocotools
+
+fvcore
+iopath
+
+open_clip_torch
+transformers
+accelerate
+qwen-vl-utils
+einops
+scipy
+matplotlib
